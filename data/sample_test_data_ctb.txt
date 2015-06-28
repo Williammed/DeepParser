@@ -1,0 +1,37 @@
+维阿里	NR	2	VMOD
+看好	VV	0	ROOT
+欧文	NR	2	VMOD
+
+新华社	NR	8	DEP
+伦敦	NR	8	DEP
+１２月	NT	8	DEP
+３０日	NT	8	DEP
+电	NN	8	DEP
+（	PU	8	P
+记者	NN	8	DEP
+周杰	NR	0	ROOT
+）	PU	8	P
+
+自古	AD	3	VMOD
+英雄	NN	3	SUB
+识	VV	18	VMOD
+英雄	NN	3	OBJ
+，	PU	18	P
+在	P	18	VMOD
+足球	NN	8	NMOD
+明星	NN	9	NMOD
+维阿里	NR	10	DEP
+的	DEG	11	NMOD
+眼	NN	12	DEP
+里	LC	6	PMOD
+，	PU	18	P
+只有	AD	17	NMOD
+神奇	JJ	16	NMOD
+小子	NN	17	NMOD
+欧文	NR	18	SUB
+可以	VV	0	ROOT
+成为	VV	18	VC
+超级	JJ	21	NMOD
+巨星	NN	19	OBJ
+。	PU	18	P
+

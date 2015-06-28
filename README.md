@@ -1,4 +1,5 @@
-DeepParser is a graph-based parser based on deep learning. This work has been accepted by ACL2015 as oral long paper. <br>
+#A Graph-based dependency parser using Deep Learning
+DeepParser is a graph-based dependency parser based on deep learning model. This work has been accepted by ACL2015 as oral long paper. <br>
 
 ##Project structures
 model: Trained model for English parser and Chinese Parser <br>

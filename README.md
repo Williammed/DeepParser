@@ -8,8 +8,8 @@ DeepParser is a graph-based dependency parser based on deep learning model. This
 
 ##Training and Testing
 For compiling training code, go to <b>src</b> directory and run: <br>
-make dep_parser_train <br>
+<i>make dep_parser_train</i> <br>
 <br>
 For compiling testing code, go to <b>src</b> directory and run: <br>
-make dep_parser_test <br>
+<i>make dep_parser_test</i> <br>
 
